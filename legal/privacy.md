@@ -3,19 +3,17 @@ layout: default
 title: Privacy Policy
 ---
 
-# Archer Privacy Policy
+# Atlasight Privacy Policy
 
 **Effective Date:** May 1, 2026
 
 **LANGUAGE NOTICE:** This document may be translated into other languages. In the event of any conflict or inconsistency between the English version and any translated version, the English version shall prevail.
 
-**DISCLAIMER:** This document is a draft and requires review by qualified legal professionals before use.
-
 ---
 
-Atharch Technology Ltd. ("Atharch," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Archer mobile application ("App" or "Archer").
+Atharch Technology Ltd. ("Atharch," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Atlasight mobile application ("App" or "Atlasight").
 
-By using Archer, you consent to the data practices described in this Privacy Policy. If you do not agree with these practices, please do not use Archer.
+By using Atlasight, you consent to the data practices described in this Privacy Policy. If you do not agree with these practices, please do not use Atlasight.
 
 ---
 
@@ -32,7 +30,7 @@ When you create an account, we collect:
 
 ### 1.2 Query Data
 
-When you use Archer to query Knowledge Bases:
+When you use Atlasight to query Knowledge Bases:
 
 - Your queries are transmitted to our servers for processing
 - Query results are returned to your device
@@ -62,7 +60,7 @@ We may automatically collect certain information about your device, including:
 
 ### 1.5 Usage Data
 
-We collect information about your use of Archer, including:
+We collect information about your use of Atlasight, including:
 
 - Permits consumption statistics
 - Feature usage patterns
@@ -83,7 +81,7 @@ We use the information we collect to:
 
 ### 2.2 Improve Our Services
 
-- Analyze usage patterns to enhance Archer's functionality
+- Analyze usage patterns to enhance Atlasight's functionality
 - Identify and fix bugs and technical issues
 - Develop new features and improvements
 
@@ -104,7 +102,7 @@ We use the information we collect to:
 
 ### 3.1 Google Cloud Platform Services
 
-Archer uses Google Cloud Platform services to process queries and provide functionality. Specifically:
+Atlasight uses Google Cloud Platform services to process queries and provide functionality. Specifically:
 
 - **Google Gemini AI:** Your queries are sent to Google Gemini AI for processing. The AI analyzes your query against the relevant Knowledge Base content and generates a response, which is then returned to your device. Query data sent to Gemini AI is processed in accordance with Google's data handling practices.
 
@@ -112,7 +110,7 @@ Archer uses Google Cloud Platform services to process queries and provide functi
 
 - **Google Cloud Storage:** Documents uploaded to Knowledge Bases are stored in Google Cloud Storage.
 
-All data processing involving Google services is governed by Google's privacy policies and terms of service. By using Archer, you acknowledge that your data may be processed by Google Cloud Platform in accordance with their data handling practices.
+All data processing involving Google services is governed by Google's privacy policies and terms of service. By using Atlasight, you acknowledge that your data may be processed by Google Cloud Platform in accordance with their data handling practices.
 
 For more information, please review:
 - Google Cloud Privacy Notice: https://cloud.google.com/terms/cloud-privacy-notice
@@ -182,7 +180,7 @@ Data stored locally on your device is protected by your device's security featur
 
 ### 5.1 Account Deletion
 
-You may delete your Archer account at any time through the App's settings or by contacting us. Upon account deletion:
+You may delete your Atlasight account at any time through the App's settings or by contacting us. Upon account deletion:
 
 - Your account information will be removed from our servers
 - Your locally stored data will remain on your device until you delete it manually
@@ -236,13 +234,13 @@ Anonymized usage statistics may be retained indefinitely for analytics and servi
 
 ## 7. Children's Privacy
 
-Archer is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+Atlasight is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
 
 ---
 
 ## 8. International Data Transfers
 
-Your information may be transferred to and processed in countries other than your country of residence. These countries may have data protection laws that differ from your country. By using Archer, you consent to the transfer of your information to countries outside your country of residence.
+Your information may be transferred to and processed in countries other than your country of residence. These countries may have data protection laws that differ from your country. By using Atlasight, you consent to the transfer of your information to countries outside your country of residence.
 
 We take appropriate safeguards to ensure that your information receives an adequate level of protection in the jurisdictions where we process it.
 
@@ -250,7 +248,7 @@ We take appropriate safeguards to ensure that your information receives an adequ
 
 ## 9. Third-Party Links and Services
 
-Archer may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to review the privacy policies of any third-party services you access through Archer.
+Atlasight may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to review the privacy policies of any third-party services you access through Atlasight.
 
 ---
 
@@ -258,7 +256,7 @@ Archer may contain links to third-party websites or services. We are not respons
 
 We may update this Privacy Policy from time to time. If we make material changes, we will notify you through the App or by other reasonable means prior to the changes taking effect.
 
-Your continued use of Archer after the effective date of the revised Privacy Policy constitutes your acceptance of the changes. We encourage you to review this Privacy Policy periodically.
+Your continued use of Atlasight after the effective date of the revised Privacy Policy constitutes your acceptance of the changes. We encourage you to review this Privacy Policy periodically.
 
 ---
 
