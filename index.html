@@ -26,15 +26,12 @@
 </head> 
 
 <script>
-  window.addEventListener("hashchange", function () {
-    if (window.location.hash === "#") {
-      history.replaceState(null, null, window.location.pathname);
+document.addEventListener('click', function(e) {
+    const target = e.target.closest('a'); // 确保点击的是链接
+    if (target && target.getAttribute('href') === '#') {
+        e.preventDefault(); // 核心：阻止浏览器的默认添加 # 行为
     }
-  });
-  // 初始化时检查
-  if (window.location.hash === "#") {
-    history.replaceState(null, null, window.location.pathname);
-  }
+}, false);
 </script>
 
 <body>
