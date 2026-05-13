@@ -268,9 +268,9 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 King County, Washington, USA
 
-Email: support@atharch.com
+Email: sales@atharch.com
 
-For data protection inquiries, you may also contact our Data Protection contact at: support@atharch.com
+For data protection inquiries, you may also contact our Data Protection contact at: sales@atharch.com
 
 ---
 

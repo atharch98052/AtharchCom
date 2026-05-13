@@ -358,7 +358,7 @@ Notices to Atharch must be sent to:
 
 **Atharch Technology Ltd.**
 King County, Washington, USA
-Email: support@atharch.com
+Email: sales@atharch.com
 
 Notices to you will be sent to the email address associated with your account.
 
@@ -396,7 +396,7 @@ If you have any questions about this Agreement, please contact us at:
 
 King County, Washington, USA
 
-Email: support@atharch.com
+Email: sales@atharch.com
 
 ---
 

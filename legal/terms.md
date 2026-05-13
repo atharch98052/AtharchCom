@@ -251,7 +251,7 @@ Some jurisdictions do not allow the exclusion of certain warranties or the limit
 
 ### 11.1 Informal Resolution
 
-Before filing any formal legal proceeding, you agree to first contact us and attempt to resolve any dispute informally. You may contact us at support@atharch.com. We will attempt to resolve the dispute within 60 days from receipt of your notice.
+Before filing any formal legal proceeding, you agree to first contact us and attempt to resolve any dispute informally. You may contact us at sales@atharch.com. We will attempt to resolve the dispute within 60 days from receipt of your notice.
 
 ### 11.2 Agreement to Arbitrate
 
@@ -355,7 +355,7 @@ If you have any questions about these Terms, please contact us at:
 
 King County, Washington, USA
 
-Email: support@atharch.com
+Email: sales@atharch.com
 
 ---
 
