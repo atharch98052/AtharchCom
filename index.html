@@ -25,6 +25,18 @@
 
 </head> 
 
+<script>
+  window.addEventListener("hashchange", function () {
+    if (window.location.hash === "#") {
+      history.replaceState(null, null, window.location.pathname);
+    }
+  });
+  // 初始化时检查
+  if (window.location.hash === "#") {
+    history.replaceState(null, null, window.location.pathname);
+  }
+</script>
+
 <body>
 	</div>
     <header class="header">
