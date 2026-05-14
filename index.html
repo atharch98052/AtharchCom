@@ -403,34 +403,19 @@ document.addEventListener('click', function(e) {
 							if (target) {
 								var email = u + "@" + d;
 
-								var subject = "Atlasight Inquiry - [Your Company Name]";
+								var subject = "Atlasight Inquiry";
 
 								var body = "Hi Atharch Team,\n\n" +
-									"I'm interested in Atlasight. Please find my information below:\n\n" +
-									"------------------------------------\n" +
-									"CONTACT INFORMATION\n" +
-									"------------------------------------\n\n" +
-									"Name:\n" +
-									"Title/Role:\n" +
-									"Email:\n" +
-									"Phone (optional):\n\n" +
-									"------------------------------------\n" +
-									"BUSINESS INFORMATION\n" +
-									"------------------------------------\n\n" +
-									"Company Name:\n" +
-									"Website:\n" +
-									"Country:\n" +
-									"State/Province:\n" +
-									"Address (optional):\n\n" +
-									"------------------------------------\n" +
-									"INTEREST (mark with X)\n" +
-									"------------------------------------\n\n" +
-									"[ ] I want to create my own knowledge base\n" +
-									"[ ] I'm exploring business partnership opportunities\n" +
-									"[ ] Please contact me via email\n" +
-									"[ ] Please contact me via phone\n\n" +
-									"------------------------------------\n\n" +
-									"Additional comments:\n\n";
+									"I am interested in Atlasight. Please find my details below:\n\n" +
+									"Name: \n" +
+									"Company: \n" +
+									"Email: \n" +
+									"Phone: \n\n" +
+									"Interest:\n" +
+									"[ ] Create my own knowledge base\n" +
+									"[ ] Business partnership\n" +
+									"[ ] Other\n\n" +
+									"Message:\n\n";
 
 								var link = document.createElement('a');
 								link.href = 'mailto:' + email
