@@ -392,25 +392,10 @@ document.addEventListener('click', function(e) {
 				<div class="section-intro mb-4 single-col-max-width mx-auto">
 					Download the Atlasight mobile app today. It’s free for all users with authorization from the knowledge base owner.
 					If you’re a data owner and would like to create your own knowledge bases, feel free to contact us at
-					<span id="sales-email-link"></span>.
-
-					<script>
-					(function() {
-						var u = "sales", d = "atharch.com";
-						var target = document.getElementById(‘sales-email-link’);
-						if (target) {
-							var link = document.createElement(‘a’);
-							link.href = ‘mailto:’ + u + ‘@’ + d + ‘?subject=’ + encodeURIComponent(‘Atlasight Inquiry’);
-							link.textContent = u + ‘@’ + d;
-							link.style.color = "inherit";
-							link.style.textDecoration = "none";
-							link.style.cursor = "pointer";
-							link.onmouseover = function() { this.style.textDecoration = "underline"; };
-							link.onmouseout  = function() { this.style.textDecoration = "none"; };
-							target.appendChild(link);
-						}
-					})();
-					</script>
+					<a href="mailto:sales@atharch.com?subject=Atlasight%20Inquiry"
+					   style="color:inherit; text-decoration:none;"
+					   onmouseover="this.style.textDecoration=’underline’"
+					   onmouseout="this.style.textDecoration=’none’">sales@atharch.com</a>.
 				</div>
 				
 				<ul class="app-stores list-unstyled list-inline mx-auto  d-inline-block">
