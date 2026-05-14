@@ -390,51 +390,57 @@ document.addEventListener('click', function(e) {
 		    <!-- <div class="section-intro mb-4 single-col-max-width mx-auto">Download the Atlasight mobile app today. It's free for all users with authorization from the knowledge base owner. If you're a data owner and would like to create your own knowledge bases, feel free to contact us at sales@atharch.com.</div> -->
 				
 				<div class="section-intro mb-4 single-col-max-width mx-auto">
-					Download the Atlasight mobile app today. It’s free for all users with authorization from the knowledge base owner. 
-					If you’re a data owner and would like to create your own knowledge bases, feel free to contact us at 
-					
-					<span id="sales-email-link"></span>.
-
-					<script>
-						(function() {
-							var u = "sales";
-							var d = "atharch.com";
-							var target = document.getElementById('sales-email-link');
-							if (target) {
-								var email = u + "@" + d;
-
-								var subject = "Atlasight Inquiry";
-
-								var body = "Hi Atharch Team,\n\n" +
-									"I am interested in Atlasight. Please find my details below:\n\n" +
-									"Name: \n" +
-									"Company: \n" +
-									"Email: \n" +
-									"Phone: \n\n" +
-									"Interest:\n" +
-									"[ ] Create my own knowledge base\n" +
-									"[ ] Business partnership\n" +
-									"[ ] Other\n\n" +
-									"Message:\n\n";
-
-								var link = document.createElement('a');
-								link.href = 'mailto:' + email
-									+ '?subject=' + encodeURIComponent(subject)
-									+ '&body=' + encodeURIComponent(body);
-								link.textContent = email;
-
-								link.style.color = "inherit";
-								link.style.textDecoration = "none";
-								link.style.cursor = "pointer";
-
-								link.onmouseover = function() { this.style.textDecoration = "underline"; };
-								link.onmouseout = function() { this.style.textDecoration = "none"; };
-
-								target.appendChild(link);
-							}
-						})();
-					</script>
+					Download the Atlasight mobile app today. It’s free for all users with authorization from the knowledge base owner.
+					If you’re a data owner and would like to create your own knowledge bases, feel free to contact us at
+					<span id="sales-email-link"></span><span id="copy-toast"
+						style="display:none; margin-left:6px; color:#71c853; font-size:0.85em;">✓ Template copied!</span>.
 				</div>
+
+				<script>
+				(function() {
+					var u = "sales", d = "atharch.com";
+					var email = u + "@" + d;
+					var subject = "Atlasight Inquiry";
+					var body =
+						"Hi Atharch Team,\n\n" +
+						"I am interested in Atlasight. Please find my details below:\n\n" +
+						"Name: \n" +
+						"Company: \n" +
+						"Email: \n" +
+						"Phone: \n\n" +
+						"Interest:\n" +
+						"[ ] Create my own knowledge base\n" +
+						"[ ] Business partnership\n" +
+						"[ ] Other\n\n" +
+						"Message:\n\n";
+
+					var target = document.getElementById(‘sales-email-link’);
+					if (target) {
+						var link = document.createElement(‘a’);
+						link.href = ‘mailto:’ + email
+							+ ‘?subject=’ + encodeURIComponent(subject)
+							+ ‘&body=’    + encodeURIComponent(body);
+						link.textContent = email;
+						link.style.color = "inherit";
+						link.style.textDecoration = "none";
+						link.style.cursor = "pointer";
+						link.onmouseover = function() { this.style.textDecoration = "underline"; };
+						link.onmouseout  = function() { this.style.textDecoration = "none"; };
+						link.addEventListener(‘click’, function() {
+							if (navigator.clipboard) {
+								navigator.clipboard.writeText(body).then(function() {
+									var toast = document.getElementById(‘copy-toast’);
+									if (toast) {
+										toast.style.display = ‘inline’;
+										setTimeout(function() { toast.style.display = ‘none’; }, 3000);
+									}
+								});
+							}
+						});
+						target.appendChild(link);
+					}
+				})();
+				</script>
 				
 				<ul class="app-stores list-unstyled list-inline mx-auto  d-inline-block">
 				    <li class="list-inline-item me-3"><a href="#"><img class="ios" src="assets/images/appstore-apple.svg" alt="app-store"></a></li>
