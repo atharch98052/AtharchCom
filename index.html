@@ -464,7 +464,7 @@ document.addEventListener('click', function(e) {
 								var target = document.getElementById('email-container');
 								if (target) {
 									var link = document.createElement('a');
-									link.href = 'mailto:' + u + '@' + d;
+									link.href = 'mailto:' + u + '@' + d + '?subject=' + encodeURIComponent('Atlasight Inquiry');
 									link.textContent = u + '@' + d;
 									link.className = "text-link"; // 保持你原有的样式类
 									target.appendChild(link);
