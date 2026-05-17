@@ -3,7 +3,7 @@ layout: default
 title: Terms of Service
 ---
 
-# Atlasight Terms of Service
+# Atlathi Terms of Service
 
 **Effective Date:** May 1, 2026
 
@@ -11,19 +11,19 @@ title: Terms of Service
 
 ---
 
-Welcome to Atlasight! These Terms of Service ("Terms") govern your use of the Atlasight mobile application ("App" or "Atlasight") provided by Atharch Technology Ltd. ("Atharch," "we," "us," or "our"). By accessing or using Atlasight, you agree to be bound by these Terms. If you do not agree to these Terms, do not use Atlasight.
+Welcome to Atlathi! These Terms of Service ("Terms") govern your use of the Atlathi mobile application ("App" or "Atlathi") provided by Atharch Technology Ltd. ("Atharch," "we," "us," or "our"). By accessing or using Atlathi, you agree to be bound by these Terms. If you do not agree to these Terms, do not use Atlathi.
 
 ---
 
-## 1. Your Use of Atlasight
+## 1. Your Use of Atlathi
 
 ### 1.1 Eligibility
 
-You must be at least 13 years of age to use Atlasight. If you are under 18, you represent that your parent or legal guardian has reviewed and agreed to these Terms on your behalf. By using Atlasight, you represent and warrant that you meet these eligibility requirements.
+You must be at least 13 years of age to use Atlathi. If you are under 18, you represent that your parent or legal guardian has reviewed and agreed to these Terms on your behalf. By using Atlathi, you represent and warrant that you meet these eligibility requirements.
 
 ### 1.2 Account Registration
 
-To access certain features of Atlasight, you may need to create an account. You agree to:
+To access certain features of Atlathi, you may need to create an account. You agree to:
 
 - Provide accurate, current, and complete information during registration
 - Maintain and promptly update your account information
@@ -33,7 +33,7 @@ To access certain features of Atlasight, you may need to create an account. You 
 
 ### 1.3 Access Key Activation
 
-Access to Knowledge Bases within Atlasight is granted through Access Keys provided by Knowledge Base Owners. You agree to:
+Access to Knowledge Bases within Atlathi is granted through Access Keys provided by Knowledge Base Owners. You agree to:
 
 - Use Access Keys only as authorized by the Knowledge Base Owner
 - Not share, transfer, or distribute Access Keys without authorization
@@ -43,31 +43,31 @@ Access to Knowledge Bases within Atlasight is granted through Access Keys provid
 
 You agree not to:
 
-- Use Atlasight for any illegal purpose or in violation of any applicable laws
+- Use Atlathi for any illegal purpose or in violation of any applicable laws
 - Attempt to gain unauthorized access to any Knowledge Base or system
-- Interfere with or disrupt the operation of Atlasight or its servers
-- Use automated means (bots, scrapers, etc.) to access Atlasight without our permission
+- Interfere with or disrupt the operation of Atlathi or its servers
+- Use automated means (bots, scrapers, etc.) to access Atlathi without our permission
 - Impersonate any person or entity or misrepresent your affiliation
 - Circumvent any access controls or usage limitations
-- Use Atlasight to harass, abuse, or harm others
+- Use Atlathi to harass, abuse, or harm others
 
 ### 1.5 Settings and Privacy
 
-You may adjust your privacy and notification settings within Atlasight. You are responsible for reviewing and managing these settings according to your preferences.
+You may adjust your privacy and notification settings within Atlathi. You are responsible for reviewing and managing these settings according to your preferences.
 
 ### 1.6 Platform Changes
 
-We reserve the right to modify, suspend, or discontinue any aspect of Atlasight at any time, with or without notice. We may also impose limits on certain features or restrict access to parts or all of Atlasight without liability.
+We reserve the right to modify, suspend, or discontinue any aspect of Atlathi at any time, with or without notice. We may also impose limits on certain features or restrict access to parts or all of Atlathi without liability.
 
 ### 1.7 Feedback
 
-Any feedback, suggestions, or ideas you submit to us regarding Atlasight may be used by us without any obligation to compensate you. You grant us a perpetual, irrevocable, royalty-free license to use such feedback for any purpose.
+Any feedback, suggestions, or ideas you submit to us regarding Atlathi may be used by us without any obligation to compensate you. You grant us a perpetual, irrevocable, royalty-free license to use such feedback for any purpose.
 
 ---
 
 ## 2. Privacy
 
-Your privacy is important to us. Our collection and use of your information is governed by our [Privacy Policy](privacy), which is incorporated into these Terms by reference. By using Atlasight, you consent to our data practices as described in the Privacy Policy.
+Your privacy is important to us. Our collection and use of your information is governed by our [Privacy Policy](privacy), which is incorporated into these Terms by reference. By using Atlathi, you consent to our data practices as described in the Privacy Policy.
 
 ---
 
@@ -75,7 +75,7 @@ Your privacy is important to us. Our collection and use of your information is g
 
 ### 3.1 Query Processing
 
-When you submit queries through Atlasight, they are processed using AI technology to retrieve relevant information from Knowledge Bases you have access to. Your queries may be transmitted to servers for processing.
+When you submit queries through Atlathi, they are processed using AI technology to retrieve relevant information from Knowledge Bases you have access to. Your queries may be transmitted to servers for processing.
 
 ### 3.2 Local Storage
 
@@ -83,7 +83,7 @@ Your chat history and query results may be stored locally on your device for you
 
 ### 3.3 No User-Published Content
 
-Unlike social platforms, Atlasight does not enable you to publish content visible to other users. You interact with Knowledge Bases through queries only.
+Unlike social platforms, Atlathi does not enable you to publish content visible to other users. You interact with Knowledge Bases through queries only.
 
 ---
 
@@ -114,29 +114,29 @@ The content contained in query results belongs to the Knowledge Base Owner. Your
 
 ### 5.1 Atharch Intellectual Property
 
-The Atlasight App, including its design, features, functionality, code, graphics, logos, and trademarks, is owned by Atharch Technology Ltd. and protected by intellectual property laws. All rights not expressly granted to you are reserved by Atharch.
+The Atlathi App, including its design, features, functionality, code, graphics, logos, and trademarks, is owned by Atharch Technology Ltd. and protected by intellectual property laws. All rights not expressly granted to you are reserved by Atharch.
 
 ### 5.2 Limited License
 
-Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to use Atlasight for your personal purposes in accordance with these Terms.
+Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to use Atlathi for your personal purposes in accordance with these Terms.
 
 ### 5.3 Restrictions
 
 You agree NOT to:
 
-- Reverse engineer, decompile, disassemble, or attempt to derive the source code of Atlasight
-- Modify, adapt, or create derivative works based on Atlasight
+- Reverse engineer, decompile, disassemble, or attempt to derive the source code of Atlathi
+- Modify, adapt, or create derivative works based on Atlathi
 - Remove, alter, or obscure any copyright, trademark, or other proprietary notices
-- Use Atlasight to develop competing products or services
-- Sublicense, sell, rent, lease, or otherwise transfer rights to Atlasight
+- Use Atlathi to develop competing products or services
+- Sublicense, sell, rent, lease, or otherwise transfer rights to Atlathi
 
 ### 5.4 No Interference
 
-You agree not to interfere with, disrupt, or create an undue burden on Atlasight's servers, networks, or infrastructure.
+You agree not to interfere with, disrupt, or create an undue burden on Atlathi's servers, networks, or infrastructure.
 
 ### 5.5 No Endorsement
 
-Atharch does not endorse any Knowledge Base content or query results. The presence of content on Atlasight does not constitute our approval or verification of such content.
+Atharch does not endorse any Knowledge Base content or query results. The presence of content on Atlathi does not constitute our approval or verification of such content.
 
 ---
 
@@ -144,14 +144,14 @@ Atharch does not endorse any Knowledge Base content or query results. The presen
 
 ### 6.1 Google Cloud Platform
 
-Atlasight uses Google Cloud Platform services to process queries and provide functionality. By using Atlasight, you acknowledge and agree that your use is also subject to Google Cloud Platform's applicable terms of service and privacy policies.
+Atlathi uses Google Cloud Platform services to process queries and provide functionality. By using Atlathi, you acknowledge and agree that your use is also subject to Google Cloud Platform's applicable terms of service and privacy policies.
 
 ### 6.2 Third-Party Disclaimers
 
 Atharch is not responsible for:
 
 - Any issues, errors, or unavailability of third-party services
-- Changes to third-party services that may affect Atlasight functionality
+- Changes to third-party services that may affect Atlathi functionality
 - Third-party service providers' handling of your data
 
 ### 6.3 Knowledge Base Content
@@ -164,7 +164,7 @@ Knowledge Base content is provided by Knowledge Base Owners, not Atharch. Atharc
 
 ### 7.1 Permits
 
-Your usage capacity ("Permits") for accessing Knowledge Bases is allocated by the Knowledge Base Owner. Permits may be consumed as you use Atlasight to make queries.
+Your usage capacity ("Permits") for accessing Knowledge Bases is allocated by the Knowledge Base Owner. Permits may be consumed as you use Atlathi to make queries.
 
 ### 7.2 Capacity Limits
 
@@ -172,7 +172,7 @@ Knowledge Base Owners determine the quantity and allocation of Permits. When you
 
 ### 7.3 No User Fees to Atharch
 
-**IMPORTANT:** Users do not pay any fees to Atharch Technology Ltd. through the Atlasight App. User's access to Knowledge Bases is granted by the Knowledge Base Owner. Any payment arrangements between Users and Knowledge Base Owners are independent agreements to which Atharch is not a party.
+**IMPORTANT:** Users do not pay any fees to Atharch Technology Ltd. through the Atlathi App. User's access to Knowledge Bases is granted by the Knowledge Base Owner. Any payment arrangements between Users and Knowledge Base Owners are independent agreements to which Atharch is not a party.
 
 ---
 
@@ -180,22 +180,22 @@ Knowledge Base Owners determine the quantity and allocation of Permits. When you
 
 ### 8.1 Termination by You
 
-You may stop using Atlasight and close your account at any time. To close your account, follow the account deletion process within the App or contact us.
+You may stop using Atlathi and close your account at any time. To close your account, follow the account deletion process within the App or contact us.
 
 ### 8.2 Termination by Atharch
 
-We may suspend or terminate your access to Atlasight at any time, with or without cause or notice, including if:
+We may suspend or terminate your access to Atlathi at any time, with or without cause or notice, including if:
 
 - You violate these Terms
 - We believe your conduct may harm Atharch, other users, or third parties
 - We are required to do so by law
-- We discontinue Atlasight or any part thereof
+- We discontinue Atlathi or any part thereof
 
 ### 8.3 Effect of Termination
 
 Upon termination:
 
-- Your right to use Atlasight immediately ceases
+- Your right to use Atlathi immediately ceases
 - Your locally stored data remains on your device until you delete it
 - Provisions of these Terms that by their nature should survive termination will survive
 
@@ -205,7 +205,7 @@ Upon termination:
 
 You agree to defend, indemnify, and hold harmless Atharch Technology Ltd., its affiliates, officers, directors, employees, agents, and licensors from and against any claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or related to:
 
-- Your use of Atlasight
+- Your use of Atlathi
 - Your violation of these Terms
 - Your violation of any applicable law or regulation
 - Your violation of any third-party rights
@@ -255,7 +255,7 @@ Before filing any formal legal proceeding, you agree to first contact us and att
 
 ### 11.2 Agreement to Arbitrate
 
-If we cannot resolve the dispute informally, you and Atharch agree to resolve any claims relating to these Terms or Atlasight through final and binding arbitration, except as set forth below. The arbitration will be conducted by JAMS under its applicable rules, and judgment on the arbitration award may be entered in any court having jurisdiction.
+If we cannot resolve the dispute informally, you and Atharch agree to resolve any claims relating to these Terms or Atlathi through final and binding arbitration, except as set forth below. The arbitration will be conducted by JAMS under its applicable rules, and judgment on the arbitration award may be entered in any court having jurisdiction.
 
 ### 11.3 Arbitration Procedures
 
@@ -291,7 +291,7 @@ For any disputes not subject to arbitration, you agree to submit to the exclusiv
 
 ### 12.1 Changes to Terms
 
-We may modify these Terms at any time. If we make material changes, we will notify you through the App or by other reasonable means. Your continued use of Atlasight after the effective date of the revised Terms constitutes your acceptance of the changes.
+We may modify these Terms at any time. If we make material changes, we will notify you through the App or by other reasonable means. Your continued use of Atlathi after the effective date of the revised Terms constitutes your acceptance of the changes.
 
 ### 12.2 Export Control
 
@@ -299,7 +299,7 @@ You agree to comply with all applicable export and re-export control laws and re
 
 ### 12.3 Mobile Device Terms
 
-When using Atlasight on a mobile device, you are responsible for any mobile charges that may apply. You acknowledge that we may communicate with you regarding Atlasight by electronic communications to your mobile device.
+When using Atlathi on a mobile device, you are responsible for any mobile charges that may apply. You acknowledge that we may communicate with you regarding Atlathi by electronic communications to your mobile device.
 
 ### 12.4 Survival
 
@@ -307,7 +307,7 @@ The following sections shall survive termination of these Terms: Sections 4 (Res
 
 ### 12.5 Government Users
 
-If you are a U.S. government user, Atlasight is provided as "Commercial Computer Software" and "Commercial Computer Software Documentation" as defined in 48 C.F.R. § 2.101, and use, duplication, and disclosure are subject to the restrictions set forth in these Terms.
+If you are a U.S. government user, Atlathi is provided as "Commercial Computer Software" and "Commercial Computer Software Documentation" as defined in 48 C.F.R. § 2.101, and use, duplication, and disclosure are subject to the restrictions set forth in these Terms.
 
 ### 12.6 Assignment
 
@@ -315,11 +315,11 @@ You may not assign or transfer these Terms or your rights hereunder without our 
 
 ### 12.7 Electronic Communications
 
-By using Atlasight, you consent to receive electronic communications from us. These communications may include notices about your account and information concerning or related to Atlasight. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements.
+By using Atlathi, you consent to receive electronic communications from us. These communications may include notices about your account and information concerning or related to Atlathi. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements.
 
 ### 12.8 Entire Agreement
 
-These Terms, together with the Privacy Policy and any other agreements expressly incorporated by reference, constitute the entire agreement between you and Atharch regarding Atlasight and supersede all prior agreements and understandings.
+These Terms, together with the Privacy Policy and any other agreements expressly incorporated by reference, constitute the entire agreement between you and Atharch regarding Atlathi and supersede all prior agreements and understandings.
 
 ### 12.9 Severability
 

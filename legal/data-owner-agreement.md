@@ -1,4 +1,4 @@
-# Atlasight Data Owner Agreement
+# Atlathi Data Owner Agreement
 
 **Effective Date:** May 1, 2026
 
@@ -6,7 +6,7 @@
 
 ---
 
-This Data Owner Agreement ("Agreement") is a legally binding contract between you ("Knowledge Base Owner," "you," or "your") and Atharch Technology Ltd. ("Atharch," "we," "us," or "our") governing your creation and management of Knowledge Bases on the Atlasight platform.
+This Data Owner Agreement ("Agreement") is a legally binding contract between you ("Knowledge Base Owner," "you," or "your") and Atharch Technology Ltd. ("Atharch," "we," "us," or "our") governing your creation and management of Knowledge Bases on the Atlathi platform.
 
 **BY CLICKING "I AGREE," CREATING A KNOWLEDGE BASE, OR OTHERWISE USING THE ARCHER PLATFORM AS A KNOWLEDGE BASE OWNER, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS AGREEMENT.**
 
@@ -119,7 +119,7 @@ Content removal does not constitute a determination of the content's legality or
 
 ### 3.1 Independent Agreement Relationships
 
-Your use of the Atlasight platform requires you to establish an independent Google Cloud Platform Project for your Knowledge Base services. You acknowledge that:
+Your use of the Atlathi platform requires you to establish an independent Google Cloud Platform Project for your Knowledge Base services. You acknowledge that:
 
 - You will enter into a direct agreement with Google for Google Cloud Platform services
 - Your agreement with Google is a separate legal relationship to which Atharch is not a party
@@ -182,20 +182,20 @@ You retain all intellectual property rights in your Knowledge Base content. Noth
 
 You grant Atharch a limited, non-exclusive, worldwide, royalty-free license to:
 
-- Store, process, and transmit your Knowledge Base content as necessary to provide the Atlasight service
+- Store, process, and transmit your Knowledge Base content as necessary to provide the Atlathi service
 - Create technical copies and backups as part of normal service operations
 - Display content to authorized users in response to their queries
 
-This license is limited to what is strictly necessary for Atharch to provide the Atlasight platform service.
+This license is limited to what is strictly necessary for Atharch to provide the Atlathi platform service.
 
 ### 4.3 Service Account Authorization
 
 **IMPORTANT TECHNICAL REQUIREMENT:**
 
-You must authorize the Atlasight App to access your Knowledge Base through a Google Cloud Service Account. You are solely responsible for:
+You must authorize the Atlathi App to access your Knowledge Base through a Google Cloud Service Account. You are solely responsible for:
 
 - Creating and properly configuring the Service Account in your Google Cloud Project
-- Granting appropriate permissions to allow Atlasight App to access your Knowledge Base
+- Granting appropriate permissions to allow Atlathi App to access your Knowledge Base
 - Maintaining proper security settings as required by Google Cloud best practices
 - Regularly reviewing and auditing Service Account access and permissions
 - Any security incidents, unauthorized access, or data breaches arising from improper Service Account configuration or management
@@ -221,7 +221,7 @@ You agree to defend, indemnify, and hold harmless Atharch Technology Ltd., its a
 - Any claims arising from content removal actions taken by Atharch
 - Your breach of this Agreement or any representations and warranties herein
 - Your negligent or wrongful acts or omissions
-- Any third-party claims arising from your use of the Atlasight platform
+- Any third-party claims arising from your use of the Atlathi platform
 
 ---
 
@@ -277,18 +277,18 @@ This Agreement begins when you accept it and continues until terminated by eithe
 
 You may terminate this Agreement at any time by:
 
-- Ceasing to use the Atlasight platform
+- Ceasing to use the Atlathi platform
 - Deleting your Knowledge Bases
 - Providing written notice to Atharch
 
 ### 8.3 Termination by Atharch
 
-Atharch may suspend or terminate your access to the Atlasight platform and/or this Agreement at any time, with or without cause, including if:
+Atharch may suspend or terminate your access to the Atlathi platform and/or this Agreement at any time, with or without cause, including if:
 
 - You breach any provision of this Agreement
 - We believe your conduct may harm Atharch, users, or third parties
 - We are required to do so by law or regulation
-- We discontinue the Atlasight platform or any part thereof
+- We discontinue the Atlathi platform or any part thereof
 - Your Google Cloud Project is suspended or terminated
 - We determine, in our sole discretion, that continued service is not appropriate
 
@@ -309,7 +309,7 @@ Atharch assumes NO liability for any losses or damages arising from termination 
 
 Upon termination:
 
-- Your access to the Atlasight platform will be disabled
+- Your access to the Atlathi platform will be disabled
 - Your Knowledge Base data stored on Google Cloud Platform remains subject to your agreement with Google
 - You are responsible for backing up your data prior to termination
 - Atharch may retain certain information as required by law or for legitimate business purposes
@@ -350,7 +350,7 @@ This Agreement, together with any documents incorporated by reference, constitut
 
 ### 9.4 Amendments
 
-Atharch may modify this Agreement at any time. Material changes will be communicated to you through the Atlasight platform or by other reasonable means. Your continued use of the platform after the effective date of changes constitutes acceptance of the modified Agreement.
+Atharch may modify this Agreement at any time. Material changes will be communicated to you through the Atlathi platform or by other reasonable means. Your continued use of the platform after the effective date of changes constitutes acceptance of the modified Agreement.
 
 ### 9.5 Notices
 

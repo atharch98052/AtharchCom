@@ -31,14 +31,18 @@ After editing any `.scss` file, recompile to update `assets/css/theme.css`. Neve
 - `$theme-color-secondary: #71c853` — green
 - `$theme-text-color-primary: #212B35`
 
-**JS:** `assets/js/main.js` — only initializes the Flickity testimonial carousel.
+**Button classes:** Custom `.theme-btn`, `.theme-btn-ghost`, `.theme-btn-on-bg` extend Bootstrap's `.btn` (defined in `scss/theme/_base.scss`).
+
+**JS:** `assets/js/main.js` — initializes the Flickity testimonial carousel. The testimonial section in `index.html` is currently HTML-commented out, so Flickity is loaded but inactive.
+
+**Email in footer:** Constructed via split strings in an inline `<script>` to prevent bot scraping — do not replace with a plain `mailto:` href.
 
 **Vendor assets (do not edit):**
 - `assets/plugins/bootstrap/` — compiled Bootstrap CSS/JS
 - `assets/plugins/flickity/` — carousel plugin
-- `assets/fontawesome/` — icon font
+- `assets/fontawesome/` — icon font (loaded deferred via `<script defer>`)
 
-**Legal pages:** `legal/privacy.md`, `legal/terms.md`, `legal/data-owner-agreement.md` — Markdown files served as-is (not compiled to HTML).
+**Legal pages:** `legal/privacy.md`, `legal/terms.md`, `legal/data-owner-agreement.md` — Markdown with Jekyll frontmatter, served as-is (not compiled to HTML). Companion `.html` stubs in `legal/` are minimal redirect pages pointing to the `.md` files.
 
 ## Deployment
 
