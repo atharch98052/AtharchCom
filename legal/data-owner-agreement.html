@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Owner Agreement - Atharch</title>
+    <link rel="stylesheet" href="../assets/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/theme.css">
+</head>
+<body>
+    <div class="container py-5" style="max-width:800px">
+        <a href="../index.html" class="btn btn-sm btn-outline-primary mb-4">&larr; Back</a>
+        <div id="content"></div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        fetch('data-owner-agreement.md')
+            .then(r => r.text())
+            .then(text => {
+                const stripped = text.replace(/^---[\s\S]*?---\n/, '');
+                document.getElementById('content').innerHTML = marked.parse(stripped);
+            });
+    </script>
+</body>
+</html>
